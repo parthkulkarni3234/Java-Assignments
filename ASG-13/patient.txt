@@ -1,0 +1,4 @@
+Patient ID: P205
+Name: Sneha Kulkarni
+Age: 34
+Diagnosis: Viral Fever

@@ -1,0 +1,4 @@
+Employee ID: E101
+Name: Parth Kulkarni
+Department: Accounts
+Salary: 4500000
