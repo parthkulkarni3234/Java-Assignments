@@ -1,0 +1,11 @@
+body{font-family:Segoe UI,Arial,sans-serif;background:#f3f5f9;margin:0;padding:30px}
+.card{max-width:520px;margin:auto;background:#fff;padding:24px 28px;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,.12)}
+h2{margin-top:0;color:#1f3a68}
+label{display:block;margin:12px 0 4px;font-weight:600}
+input[type=text],input[type=email],input[type=password],input[type=number],input[type=tel]{width:100%;padding:8px;border:1px solid #bbb;border-radius:5px;box-sizing:border-box}
+button{margin-top:18px;padding:9px 20px;background:#1f3a68;color:#fff;border:0;border-radius:5px;cursor:pointer}
+table{width:100%;border-collapse:collapse;margin-top:10px}
+td,th{padding:8px;border:1px solid #ccc;text-align:left}
+th{background:#e8edf6;width:35%}
+a{color:#1f3a68}
+.err{color:#b00020;font-weight:600}
