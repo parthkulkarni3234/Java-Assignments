@@ -1,0 +1,16 @@
+body{font-family:Segoe UI,Arial,sans-serif;background:#f3f5f9;margin:0;padding:30px}
+.card{max-width:900px;margin:0 auto 24px;background:#fff;padding:22px 28px;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,.12)}
+h2{margin-top:0;color:#1f3a68}
+.row{display:flex;gap:14px;flex-wrap:wrap}
+.row div{flex:1;min-width:150px}
+label{display:block;margin:10px 0 4px;font-weight:600}
+input[type=text],input[type=number],select{width:100%;padding:8px;border:1px solid #bbb;border-radius:5px;box-sizing:border-box}
+button,.btn{display:inline-block;padding:7px 16px;background:#1f3a68;color:#fff;border:0;border-radius:5px;cursor:pointer;text-decoration:none;font-size:14px}
+.btn.edit{background:#2e7d32}.btn.del{background:#b00020}.btn.grey{background:#777}
+form.inline{display:inline}
+table{width:100%;border-collapse:collapse;margin-top:10px}
+td,th{padding:8px;border:1px solid #ccc;text-align:left}
+th{background:#e8edf6}
+.ok{background:#e6f4ea;color:#1b5e20;padding:8px 12px;border-radius:5px}
+.err{background:#fdecea;color:#b00020;padding:8px 12px;border-radius:5px}
+a{color:#1f3a68}
